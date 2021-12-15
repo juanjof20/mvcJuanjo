@@ -1,6 +1,6 @@
 <h1>User Details</h1>
 <div class="row col-md-12 centered">
-    <table class="table table-striped custab">
+    <table class="table table-striped table-dark">
         <thead>
         <tr>
             <th>Id</th>

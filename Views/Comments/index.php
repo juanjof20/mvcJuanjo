@@ -1,6 +1,6 @@
 <h1>Comments</h1>
 <div class="row col-md-12 centered">
-    <table class="table table-striped custab">
+    <table class="table table-striped table-dark">
         <thead>
         <a href="<?php echo WEBROOT;?>comments/create/" class="btn btn-primary btn-xs pull-right"><b>+</b> Add Comment</a>
         <tr>

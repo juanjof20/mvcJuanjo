@@ -1,6 +1,6 @@
 <h1>Users</h1>
 <div class="row col-md-12 centered">
-    <table class="table table-striped custab">
+    <table class="table table-striped table-dark">
         <thead>
         <a href="<?php echo WEBROOT;?>users/create/" class="btn btn-primary btn-xs pull-right"><b>+</b> Add User</a>
         <tr>
